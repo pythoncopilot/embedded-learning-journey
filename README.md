@@ -17,4 +17,10 @@ This repository tracks my 30-day hands-on embedded systems learning path.
 - Day 1 → https://github.com/pythoncopilot/day01-led-blink-arduino
 - Day 2 → https://github.com/pythoncopilot/day02-button-led-control-arduino
 - Day 3 → https://github.com/pythoncopilot/day03-sensor-data-acquisition-arduino
-- Day 4 → 
+- Day 4 → https://github.com/pythoncopilot/day04-iot-dashboard-ui
+- Day 5 → 
+- Day 6 → 
+- Day 7 → 
+- Day 8 → 
+- Day 9 → 
+- Day 10 → 
