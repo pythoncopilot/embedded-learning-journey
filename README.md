@@ -14,5 +14,5 @@ This repository tracks my 30-day hands-on embedded systems learning path.
 - Notes and diagrams will be added progressively
 
 ## Day-wise Projects
-- Day 1 → https://github.com/YOUR_USERNAME/day01-led-blink-arduino
+- Day 1 → (https://github.com/pythoncopilot/day01-led-blink-arduino)
 - 
