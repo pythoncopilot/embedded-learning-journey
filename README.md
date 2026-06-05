@@ -13,5 +13,6 @@ This repository tracks my 30-day hands-on embedded systems learning path.
 - Each project will be in its own GitHub repository
 - Notes and diagrams will be added progressively
 
-## Progress Tracker
-- Day 01: Not started
+## Day-wise Projects
+- Day 1 → https://github.com/YOUR_USERNAME/day01-led-blink-arduino
+- 
