@@ -19,7 +19,7 @@ This repository tracks my 30-day hands-on embedded systems learning path.
 - Day 3 → https://github.com/pythoncopilot/day03-sensor-data-acquisition-arduino
 - Day 4 → https://github.com/pythoncopilot/day04-iot-dashboard-ui
 - Day 5 → https://github.com/pythoncopilot/day05-arduino-python-iot-dashboard
-- Day 6 → 
+- Day 6 → https://github.com/pythoncopilot/day06-sqlite-iot-database-fundamentals
 - Day 7 → 
 - Day 8 → 
 - Day 9 → 
