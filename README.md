@@ -43,8 +43,8 @@ Each day builds a complete working project, gradually evolving from basic hardwa
 - Day 7 → https://github.com/pythoncopilot/day07-iot-realtime-bridge
 - Day 8 → https://github.com/pythoncopilot/day08-iot-data-analytics
 
-## 🔹 Phase 4 — (Upcoming)
-- Day 9 → In Progress
+## 🔹 Phase 4 — (intercommunication REST APIs FLASK)
+- Day 9 → https://github.com/pythoncopilot/day09-hardware-inventory-api
 - Day 10 → In Progress
 
 ---
