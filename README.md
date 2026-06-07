@@ -21,6 +21,6 @@ This repository tracks my 30-day hands-on embedded systems learning path.
 - Day 5 → https://github.com/pythoncopilot/day05-arduino-python-iot-dashboard
 - Day 6 → https://github.com/pythoncopilot/day06-sqlite-iot-database-fundamentals
 - Day 7 → https://github.com/pythoncopilot/day07-iot-realtime-bridge
-- Day 8 → 
+- Day 8 → https://github.com/pythoncopilot/day08-iot-data-analytics
 - Day 9 → 
 - Day 10 → 
