@@ -1,0 +1,64 @@
+# Embedded Systems Learning Status
+
+## Current Progress
+
+Completed:
+- Day 1: Arduino LED Blink
+- Day 2: Button + LED Control
+- Day 3: Sensor Data Acquisition
+- Day 4: IoT Dashboard UI
+- Day 5: Arduino + Python Dashboard
+- Day 6: SQLite Fundamentals
+- Day 7: IoT Realtime Bridge
+- Day 8: Flask REST API + GitHub Actions CI
+
+Key Concepts Learned:
+- Arduino programming
+- Serial communication
+- Python integration
+- SQLite databases
+- REST APIs
+- Flask
+- CRUD operations
+- GitHub Actions
+- Continuous Integration (CI)
+
+Current Skill Tracks:
+1. Arduino Ecosystem
+2. ESP8266 / ESP32
+3. Raspberry Pi
+4. STM32
+5. Communication Protocols
+   - UART
+   - I2C
+   - SPI
+   - MQTT
+   - TCP/IP
+   - RS485 / Modbus
+6. Backend & IoT
+   - Flask APIs
+   - Databases
+   - Dashboards
+   - CI/CD
+
+## Next Planned Topic
+
+Day 9:
+ESP8266 HTTP Client Fundamentals
+
+Goals:
+- Understand ESP8266 networking
+- Connect ESP8266 to Wi-Fi
+- Send HTTP GET requests
+- Send HTTP POST requests
+- Communicate with Flask API
+- Compare REST vs MQTT
+
+Future Roadmap:
+- MQTT
+- ESP32
+- Raspberry Pi
+- STM32
+- TCP/IP Sockets
+- RS485 / Modbus
+- Industrial Monitoring Projects
