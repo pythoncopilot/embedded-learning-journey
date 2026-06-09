@@ -45,8 +45,12 @@ Each day builds a complete working project, gradually evolving from basic hardwa
 
 ## 🔹 Phase 4 — (intercommunication REST APIs FLASK)
 - Day 9 → https://github.com/pythoncopilot/day09-hardware-inventory-api
-- Day 10 → In Progress
-
+- Day 10 → https://github.com/pythoncopilot/day11-multi-device-iot-network
+- Day 11 →
+- Day 12 →
+- Day 13 →
+- Day 14 →
+- Day 15 → 
 ---
 
 # ⚙️ System Evolution Overview
