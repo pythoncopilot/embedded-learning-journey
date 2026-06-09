@@ -47,7 +47,7 @@ Each day builds a complete working project, gradually evolving from basic hardwa
 - Day 9 → https://github.com/pythoncopilot/day09-hardware-inventory-api
 - Day 10 → https://github.com/pythoncopilot/day10-esp8266-rest-simulation
 - Day 11 → https://github.com/pythoncopilot/day11-multi-device-iot-network
-- Day 12 →
+- Day 12 → https://github.com/pythoncopilot/day12-mqtt-iot
 - Day 13 →
 - Day 14 →
 - Day 15 → 
